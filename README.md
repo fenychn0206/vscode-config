@@ -5,7 +5,7 @@
 >
 > Don’t blindly use my settings unless you know what that entails. Use at your own risk!
 
-## Plugins
+## :arrow_double_up: Plugins
 
  - [.NET Install Tool](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime)
  - [Astro](https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode)
@@ -27,3 +27,19 @@
  - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
  - [Vue](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
  - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+
+## :camera_flash: Screen Shorts
+
+<img width="1582" alt="Screenshort1" src="https://github.com/user-attachments/assets/e7cdf12f-640a-469d-9702-a4a609c4f44e" />
+
+<img width="1582" alt="Screenshort1" src="https://github.com/user-attachments/assets/0946fedb-8e70-4e28-9b8b-fa5184faa176" />
+
+## :heartpulse: Colorful
+
+ - Color Theme: Defult Dark Modern
+ - Icon Theme: [Monospace Theme](https://marketplace.visualstudio.com/items?itemName=keksiqc.idx-monospace-theme)
+ - Font: [Monaspace Neon](https://monaspace.githubnext.com/)
+
+---
+
+###### &copy; 2024-Persent ToothlessHaveBun. Project under [MIT-License](https://github.com/ToothlessHaveBun/vscode-config/tree/main?tab=MIT-1-ov-file)
