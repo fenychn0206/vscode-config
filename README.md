@@ -5,6 +5,16 @@
 >
 > Don’t blindly use my settings unless you know what that entails. Use at your own risk!
 
+Go to the [Gist](https://gist.github.com/ToothlessHaveBun/5da59dfd511ce80cee3501e94477885e) view.
+
+```plaintext
+.
+├── LICENSE
+├── README.md
+└── .vscode
+    └── settings.json  // This one is the config file
+```
+
 ## :arrow_double_up: Plugins
 
  - [.NET Install Tool](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime)
