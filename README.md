@@ -5,8 +5,6 @@
 >
 > Don’t blindly use my settings unless you know what that entails. Use at your own risk!
 
-Go to the [Gist](https://gist.github.com/ToothlessHaveBun/5da59dfd511ce80cee3501e94477885e) view.
-
 ```plaintext
 .
 ├── LICENSE
@@ -50,6 +48,8 @@ Go to the [Gist](https://gist.github.com/ToothlessHaveBun/5da59dfd511ce80cee3501
  - Icon Theme: [Monospace Theme](https://marketplace.visualstudio.com/items?itemName=keksiqc.idx-monospace-theme)
  - Font: [Monaspace Neon](https://monaspace.githubnext.com/)
 
----
+## Author
 
-###### &copy; 2024-Persent ToothlessHaveBun. Project under [MIT-License](https://github.com/ToothlessHaveBun/vscode-config/tree/main?tab=MIT-1-ov-file)
+fredcss.dev &copy; **[Frederick Chen](https://www.ohdragonboi.cn)** | Published under [MIT-License](LICENSE).
+
+<h6><samp><a href="https://fredcss.dev">portfolio</a> · <a href="https://www.ohdragonboi.cn">blog</a> · github <a href="https://github.com/ToothlessHaveBun">(@ToothlessHaveBun)</a> · twitter(x) <a href="https://x.com/FrederickAsYou">(@FrederickAsYou)</a> · bluesky <a href="https://bsky.app/profile/fredcss17.bsky.social">(@fredcss17.bsky.social)</a></samp><h6>
