@@ -53,4 +53,4 @@
 
 **vscode-config** &copy; [Frederick Chen](https://www.ohdragonboi.cn) | Published under [MIT-License](LICENSE).
 
-> [Portfolio](https://fredcss.dev) · [Blog :cn:](https://www.ohdragonboi.cn) · GitHub @ [ToothlessHaveBun](https://github.com/ToothlessHaveBun) · Twitter @ [wczffL_503](https://x.com/wczffL_503)
+> [Portfolio](https://fredcss.dev) · [Blog :cn:](https://www.ohdragonboi.cn) · GitHub @ [ToothlessHaveBun](https://github.com/ToothlessHaveBun) · Twitter @ [wczffL_503](https://x.com/wczffL_503) · contact@ohdragonboi.cn
