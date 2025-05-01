@@ -38,18 +38,19 @@
 
 ## :camera_flash: Screen Shorts
 
-<img width="1582" alt="Screenshort1" src="https://github.com/user-attachments/assets/e7cdf12f-640a-469d-9702-a4a609c4f44e" />
+<img width="1582" alt="Screen1" src="https://github.com/user-attachments/assets/e992fdca-aad4-4c72-8f33-423ff003bff5" />
 
-<img width="1582" alt="Screenshort1" src="https://github.com/user-attachments/assets/0946fedb-8e70-4e28-9b8b-fa5184faa176" />
+<img width="1582" alt="Screen2" src="https://github.com/user-attachments/assets/63256e19-68c7-4920-bed2-9a88c6e34431" />
+
 
 ## :heartpulse: Colorful
 
- - Color Theme: Defult Dark Modern
- - Icon Theme: [Monospace Theme](https://marketplace.visualstudio.com/items?itemName=keksiqc.idx-monospace-theme)
- - Font: [Monaspace Neon](https://monaspace.githubnext.com/)
+ - Color Theme: Gruvbox Theme
+ - Icon Theme: Catppuccin Icons for VSCode
+ - Font: [CaskaydiaMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/CascadiaMono.zip)
 
 ## Author
 
-fredcss.dev &copy; **[Frederick Chen](https://www.ohdragonboi.cn)** | Published under [MIT-License](LICENSE).
+**vscode-config** &copy; [Frederick Chen](https://www.ohdragonboi.cn) | Published under [MIT-License](LICENSE).
 
-<h6><samp><a href="https://fredcss.dev">portfolio</a> · <a href="https://www.ohdragonboi.cn">blog</a> · github <a href="https://github.com/ToothlessHaveBun">(@ToothlessHaveBun)</a> · twitter(x) <a href="https://x.com/FrederickAsYou">(@FrederickAsYou)</a> · bluesky <a href="https://bsky.app/profile/fredcss17.bsky.social">(@fredcss17.bsky.social)</a></samp><h6>
+> [Portfolio](https://fredcss.dev) · [Blog:cn:](https://www.ohdragonboi.cn) · GitHub @ [ToothlessHaveBun](https://github.com/ToothlessHaveBun) · Twitter @ [wczffL_503](https://x.com/wczffL_503)
