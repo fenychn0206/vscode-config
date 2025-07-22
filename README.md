@@ -38,9 +38,9 @@
 
 ## :camera_flash: Screen Shorts
 
-<img width="1582" alt="Screen1" src="https://github.com/user-attachments/assets/e992fdca-aad4-4c72-8f33-423ff003bff5" />
+<img width="1582" alt="Screen1" src="https://bgithub.xyz/user-attachments/assets/e992fdca-aad4-4c72-8f33-423ff003bff5" />
 
-<img width="1582" alt="Screen2" src="https://github.com/user-attachments/assets/63256e19-68c7-4920-bed2-9a88c6e34431" />
+<img width="1582" alt="Screen2" src="https://bgithub.xyz/user-attachments/assets/63256e19-68c7-4920-bed2-9a88c6e34431" />
 
 
 ## :heartpulse: Colorful
@@ -51,6 +51,6 @@
 
 ## Author
 
-**vscode-config** &copy; [Frederick Chen](https://www.ohdragonboi.cn) | Published under [MIT-License](LICENSE).
+`vscode-config` &copy; [**Frederick Chen**](https://www.ohdragonboi.cn) | Licensed under [MIT-License](LICENSE).
 
-> [Portfolio](https://fredcss.dev) · [Blog :cn:](https://www.ohdragonboi.cn) · GitHub @ [wczffl-503](https://github.com/wczffl-503) · Twitter @ [wczffL_503](https://x.com/wczffL_503) · contact@ohdragonboi.cn
+###### [Homepage](https://www.ohdragonboi.cn) · [Blog](https://blog.ohdragonboi.cn) · GitHub @ [fenychn0206](https://github.com/fenychn0206) · Twitter @ [wczffL_503](https://x.com/wczffL_503) · hey@ohdragonboi.cn
