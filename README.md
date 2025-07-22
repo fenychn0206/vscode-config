@@ -49,8 +49,4 @@
  - Icon Theme: Catppuccin Icons for VSCode
  - Font: [CaskaydiaMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/CascadiaMono.zip)
 
-## Author
-
-`vscode-config` &copy; [**Frederick Chen**](https://www.ohdragonboi.cn) | Licensed under [MIT-License](LICENSE).
-
-###### [Homepage](https://www.ohdragonboi.cn) · [Blog](https://blog.ohdragonboi.cn) · GitHub @ [fenychn0206](https://github.com/fenychn0206) · Twitter @ [wczffL_503](https://x.com/wczffL_503) · hey@ohdragonboi.cn
+###### `vscode-config` &copy; [**Frederick Chen** (fenychn0206)](https://github.com/fenychn0206) | Licensed under [MIT-License](LICENSE).
